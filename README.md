@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osandaNaveen92
+- 👋 Hi, I’m @OsandaNaveen92
 - 👀 I’m interested in to crate better life
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on innovative ideas on software engineering 
