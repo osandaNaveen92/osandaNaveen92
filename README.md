@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @OsandaNaveen92
-- 👀 I’m interested in to create better life
-- 🌱 I’m currently learning computer science engineering
-- 💞️ I’m looking to collaborate on innovative ideas on software engineering 
-- 📫 You can reach me by hgosandanaveen@gmail.com
-- 😄 Pronouns: Him
-- ⚡ Fun fact: I'm a swimmer
+# Hi there! 👋 I'm Osanda Naveen
 
-<!---
-osandaNaveen92/osandaNaveen92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a passionate **Computer Science Engineering** student, driven by a vision to create a better life through technology. I enjoy exploring innovative ideas in **software engineering**, developing impactful projects, and continuously expanding my skills.
+
+## 💡 Interests & Skills
+- 🌍 **Software Engineering** - Crafting efficient, scalable, and innovative solutions.
+- 📊 **Data Science** - Leveraging data for meaningful insights.
+- 🎮 **Game Development** - Dreaming to be a game developer.
+- 🏊 **Fun Fact** - I'm a passionate **swimmer**! 🏊‍♂️
+
+## 🤝 Collaboration
+I’m open to collaborating on **exciting and innovative projects** in software engineering, game development, and automation. If you have an idea that aligns with my interests, feel free to reach out!
+
+## 📫 Contact Me
+📩 Email: [hgosandanaveen@gmail.com](mailto:hgosandanaveen@gmail.com)
+
+🚀 Let's build something amazing together!
+
